@@ -1,3 +1,5 @@
 ## Spusteni
+```
 npm install
-npm run (mozno nutno sudo protoze port 80)
+npm run # nutno sudo nebo zmenit port z 80
+```
